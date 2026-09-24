@@ -26,6 +26,19 @@
         "ERP"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "ERP",
+      "ProductDescription": "New Product ",
+      "ProductVersion": "VERSION3",
+      "ProductAuthor": "UserAdmin",
+      "ProductCreatedOn": "2026-09-24T07:16:31Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
