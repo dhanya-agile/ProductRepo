@@ -1,0 +1,18 @@
+{
+  "ManagerType": "Product",
+  "Products": [
+    {
+      "ProductName": "ERP",
+      "ProductDescription": "New Product ",
+      "ProductVersion": "Version1",
+      "ProductAuthor": "UserAdmin",
+      "ProductCreatedOn": "2026-09-24T07:11:21Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "ERP"
+      ],
+      "Category": "Enterprise"
+    }
+  ]
+}
