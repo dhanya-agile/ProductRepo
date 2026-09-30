@@ -39,6 +39,20 @@
         "ERP"
       ],
       "Category": "Enterprise"
+    },
+    {
+      "ProductName": "test case",
+      "ProductDescription": "Financial accounting and reporting solutiont:dsrcp",
+      "ProductVersion": "1",
+      "ProductAuthor": "karthik",
+      "ProductCreatedOn": "2026-09-30T10:55:00Z",
+      "Icon": "shopping_cart",
+      "ColorClass": "orange",
+      "Tags": [
+        "test",
+        "case"
+      ],
+      "Category": "Enterprise"
     }
   ]
 }
